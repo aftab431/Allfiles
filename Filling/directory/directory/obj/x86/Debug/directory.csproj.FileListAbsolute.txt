@@ -1,0 +1,22 @@
+C:\Users\muham\AppData\Local\Temporary Projects\directory\bin\Debug\directory.exe
+C:\Users\muham\AppData\Local\Temporary Projects\directory\bin\Debug\directory.pdb
+C:\Users\muham\AppData\Local\Temporary Projects\directory\obj\x86\Debug\directory.Form1.resources
+C:\Users\muham\AppData\Local\Temporary Projects\directory\obj\x86\Debug\directory.Properties.Resources.resources
+C:\Users\muham\AppData\Local\Temporary Projects\directory\obj\x86\Debug\directory.csproj.GenerateResource.Cache
+C:\Users\muham\AppData\Local\Temporary Projects\directory\obj\x86\Debug\directory.exe
+C:\Users\muham\AppData\Local\Temporary Projects\directory\obj\x86\Debug\directory.pdb
+C:\Users\muham\documents\visual studio 2010\Projects\directory\directory\obj\x86\Debug\directory.exe
+C:\Users\muham\documents\visual studio 2010\Projects\directory\directory\obj\x86\Debug\directory.pdb
+C:\Users\muham\documents\visual studio 2010\Projects\directory\directory\bin\Debug\directory.exe
+C:\Users\muham\documents\visual studio 2010\Projects\directory\directory\bin\Debug\directory.pdb
+C:\Users\muham\documents\visual studio 2010\Projects\directory\directory\obj\x86\Debug\directory.Form1.resources
+C:\Users\muham\documents\visual studio 2010\Projects\directory\directory\obj\x86\Debug\directory.Properties.Resources.resources
+C:\Users\muham\documents\visual studio 2010\Projects\directory\directory\obj\x86\Debug\directory.csproj.GenerateResource.Cache
+C:\Users\Muhammad Aftab\Documents\Visual Studio 2010\Projects\directory\directory\obj\x86\Debug\directory.exe
+C:\Users\Muhammad Aftab\Documents\Visual Studio 2010\Projects\directory\directory\obj\x86\Debug\directory.pdb
+C:\Users\Muhammad Aftab\Documents\Visual Studio 2010\Projects\directory\directory\bin\Debug\directory.exe
+C:\Users\Muhammad Aftab\Documents\Visual Studio 2010\Projects\directory\directory\bin\Debug\directory.pdb
+C:\Users\Muhammad Aftab\Documents\Visual Studio 2010\Projects\directory\directory\obj\x86\Debug\directory.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Aftab\Documents\Visual Studio 2010\Projects\directory\directory\obj\x86\Debug\directory.Form1.resources
+C:\Users\Muhammad Aftab\Documents\Visual Studio 2010\Projects\directory\directory\obj\x86\Debug\directory.Properties.Resources.resources
+C:\Users\Muhammad Aftab\Documents\Visual Studio 2010\Projects\directory\directory\obj\x86\Debug\directory.csproj.GenerateResource.Cache

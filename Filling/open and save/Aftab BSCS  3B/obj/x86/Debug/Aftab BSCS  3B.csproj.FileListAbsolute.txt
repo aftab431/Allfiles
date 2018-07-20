@@ -1,0 +1,15 @@
+C:\Users\muham\AppData\Local\Temporary Projects\Aftab BSCS  3B\bin\Debug\Aftab BSCS  3B.exe
+C:\Users\muham\AppData\Local\Temporary Projects\Aftab BSCS  3B\bin\Debug\Aftab BSCS  3B.pdb
+C:\Users\muham\AppData\Local\Temporary Projects\Aftab BSCS  3B\obj\x86\Debug\Aftab_BSCS__3B.Form1.resources
+C:\Users\muham\AppData\Local\Temporary Projects\Aftab BSCS  3B\obj\x86\Debug\Aftab_BSCS__3B.Properties.Resources.resources
+C:\Users\muham\AppData\Local\Temporary Projects\Aftab BSCS  3B\obj\x86\Debug\Aftab BSCS  3B.csproj.GenerateResource.Cache
+C:\Users\muham\AppData\Local\Temporary Projects\Aftab BSCS  3B\obj\x86\Debug\Aftab BSCS  3B.exe
+C:\Users\muham\AppData\Local\Temporary Projects\Aftab BSCS  3B\obj\x86\Debug\Aftab BSCS  3B.pdb
+C:\Users\muham\documents\visual studio 2010\Projects\Aftab BSCS  3B\Aftab BSCS  3B\obj\x86\Debug\Aftab BSCS  3B.exe
+C:\Users\muham\documents\visual studio 2010\Projects\Aftab BSCS  3B\Aftab BSCS  3B\obj\x86\Debug\Aftab BSCS  3B.pdb
+C:\Users\muham\documents\visual studio 2010\Projects\Aftab BSCS  3B\Aftab BSCS  3B\bin\Debug\Aftab BSCS  3B.exe
+C:\Users\muham\documents\visual studio 2010\Projects\Aftab BSCS  3B\Aftab BSCS  3B\bin\Debug\Aftab BSCS  3B.pdb
+C:\Users\muham\documents\visual studio 2010\Projects\Aftab BSCS  3B\Aftab BSCS  3B\obj\x86\Debug\Aftab_BSCS__3B.Form1.resources
+C:\Users\muham\documents\visual studio 2010\Projects\Aftab BSCS  3B\Aftab BSCS  3B\obj\x86\Debug\Aftab_BSCS__3B.Properties.Resources.resources
+C:\Users\muham\documents\visual studio 2010\Projects\Aftab BSCS  3B\Aftab BSCS  3B\obj\x86\Debug\Aftab BSCS  3B.csproj.GenerateResource.Cache
+C:\Users\muham\documents\visual studio 2010\Projects\Aftab BSCS  3B\Aftab BSCS  3B\obj\x86\Debug\Aftab_BSCS__3B.Form2.resources

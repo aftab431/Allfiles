@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NOTEPADSETUP", "NOTEPADSETUP\NOTEPADSETUP.vdproj", "{D61F38A5-8F32-46CD-B067-2681C08A180D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotePad", "D:\Muhammad Aftab BSCS 3B\NotePad\NotePad\NotePad.csproj", "{E419BDB0-D61F-489F-91D9-8EC9203653C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D61F38A5-8F32-46CD-B067-2681C08A180D}.Debug|x86.ActiveCfg = Debug
+		{D61F38A5-8F32-46CD-B067-2681C08A180D}.Debug|x86.Build.0 = Debug
+		{D61F38A5-8F32-46CD-B067-2681C08A180D}.Release|x86.ActiveCfg = Release
+		{D61F38A5-8F32-46CD-B067-2681C08A180D}.Release|x86.Build.0 = Release
+		{E419BDB0-D61F-489F-91D9-8EC9203653C0}.Debug|x86.ActiveCfg = Debug|x86
+		{E419BDB0-D61F-489F-91D9-8EC9203653C0}.Debug|x86.Build.0 = Debug|x86
+		{E419BDB0-D61F-489F-91D9-8EC9203653C0}.Release|x86.ActiveCfg = Release|x86
+		{E419BDB0-D61F-489F-91D9-8EC9203653C0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
